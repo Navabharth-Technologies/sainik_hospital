@@ -1,9 +1,9 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Autoplay, Pagination, Navigation } from 'swiper/modules';
+import { Autoplay } from 'swiper/modules';
 import { FaQuoteLeft, FaStar } from 'react-icons/fa';
 import { testimonials } from '../../utils/dummyData';
-import { getPublicUrl } from '../../utils/publicUrl';
+
 import './Testimonials.css';
 
 // Import Swiper styles
