@@ -608,6 +608,34 @@ export const galleryItems = [
     title: "Health Camp Waiting Area",
     image: "/gallery/camp-waiting-area.jpg",
     description: "Patients resting comfortably in the waiting lounge during the camp."
+  },
+  {
+    id: 18,
+    category: "camp",
+    title: "Health Camp Event",
+    image: "/gallery/IMG_8675.jpg",
+    description: "Glimpses from our recent successful health camp."
+  },
+  {
+    id: 19,
+    category: "camp",
+    title: "Health Camp Event",
+    image: "/gallery/IMG_8688.jpg",
+    description: "Glimpses from our recent successful health camp."
+  },
+  {
+    id: 20,
+    category: "camp",
+    title: "Health Camp Event",
+    image: "/gallery/IMG_8689.jpg",
+    description: "Glimpses from our recent successful health camp."
+  },
+  {
+    id: 21,
+    category: "camp",
+    title: "Health Camp Event",
+    image: "/gallery/IMG_8695.jpg",
+    description: "Glimpses from our recent successful health camp."
   }
 ];
 
